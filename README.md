@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noor Zehra</h1>
+<h1 align="center">Hi 👋, I'm  Rukhaam Bin Mushtaq</h1>
 <h3 align="center">Full-Stack Engineer | PERN Stack & Identity Management</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I am a second-year Computer Science engineering student with 1.5 years of experience building full-stack applications. I focus on building robust backend architectures, secure authentication flows, and dynamic, highly polished user interfaces.
 
-- 🎓 **Studying:** B.Tech in CSE at Kashmir College of Engineering and Technology (KCET), Srinagar.
+- 🎓 **Studying:** B.Tech in CSE at University of Kashmir
 - 💻 **Currently deep-diving into:** Custom OAuth 2.0 / OpenID Connect flows, identity management, and server-side optimization.
 - 📝 **Writing:** I regularly draft technical articles on Hashnode and LinkedIn, covering topics from DNS to monolith vs. microservice architectures.
 - 💬 **Ask me about:** The PERN stack, Next.js, rate limiting, and scaling backend services.
