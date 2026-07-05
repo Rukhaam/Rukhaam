@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm  Rukhaam Bin Mushtaq</h1>
-<h3 align="center">Full-Stack Engineer | PERN Stack & Identity Management</h3>
+<h1 align="center">Hi 👋, I'm Rukhaam Bin Mushtaq</h1>
+<h3 align="center">Full-Stack Engineer | PERN Stack & Backend Architecture</h3>
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+at+KCET;Building+Secure+Backend+Systems;Exploring+OAuth+2.0+%26+OIDC;Crafting+UI+with+Framer+Motion;Writing+about+Tech+on+Hashnode" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+at+KCET;Building+Secure+Backend+Systems;Building+Code+Review+Engines;Crafting+UI+with+Framer+Motion;Writing+about+Tech+on+Hashnode" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I am a second-year Computer Science engineering student with 1.5 years of experience building full-stack applications. I focus on building robust backend architectures, secure authentication flows, and dynamic, highly polished user interfaces.
+I am a second-year Computer Science engineering student with 1.5 years of experience building full-stack applications. I focus on building robust backend architectures, automated tooling, and dynamic, highly polished user interfaces. 
 
 - 🎓 **Studying:** B.Tech in CSE at University of Kashmir
-- 💻 **Currently deep-diving into:** Custom OAuth 2.0 / OpenID Connect flows, identity management, and server-side optimization.
+- 💻 **Currently deep-diving into:** Architecting a custom code review engine, server-side optimization, and scaling backend services using Builder.
 - 📝 **Writing:** I regularly draft technical articles on Hashnode and LinkedIn, covering topics from DNS to monolith vs. microservice architectures.
-- 💬 **Ask me about:** The PERN stack, Next.js, rate limiting, and scaling backend services.
+- 💬 **Ask me about:** The PERN stack, Next.js, rate limiting, and building developer tools.
 
 ---
 
@@ -84,19 +84,19 @@ I am a second-year Computer Science engineering student with 1.5 years of experi
 
 ## 🚀 Featured Projects
 
-*   🔐 **Custom OIDC Identity Provider:** Architected an IdP from the ground up using Node.js, Express, and PostgreSQL to handle custom Authorization Code flows and deeply understand the "Passport and Visa" system of OpenID Connect.
-*   🛒 **Kinetic Store:** An SEO-optimized e-commerce platform built for football jerseys, featuring dynamic sitemap generation.
-*   🚤 **Shikara Management System:** A localized dashboard system built with Drizzle ORM to manage boat availability and handle owner/admin relationships.
-*   ✨ **Interactive UI Components:** Developed an aesthetic, slick sponsor marquee component for a local web project utilizing Framer Motion.
+* ⚙️ **Automated Code Review Engine:** Developing a robust engine designed to streamline the pull request process, enforce coding standards, and improve overall developer productivity and code quality.
+* 🏗️ **Builder Projects:** Architecting and deploying scalable, high-performance applications utilizing Builder to optimize delivery and modularize complex backend architectures.
+* 🛒 **Kinetic Store:** An SEO-optimized e-commerce platform built for football jerseys, featuring dynamic sitemap generation.
+* ✨ **Interactive UI Components:** Developed an aesthetic, slick sponsor marquee component for a local web project utilizing Framer Motion.
 
 ---
 
 ## 🎧 Beyond the Code
 
 When I'm not configuring Docker containers or validating large arrays with Zod, you can find me:
-*   ⚽ Cheering on **FC Barcelona**.
-*   🎵 Vibing to South Asian indie and pop (heavy rotation: Asim Azhar, Darshan Raval, Anuv Jain, and Talwiinder).
-*   📸 Exploring high-end cinematic photography (obsessed with the aesthetic of an 85mm f1.4 lens, shallow depth of field, and 10-bit color).
+* ⚽ Cheering on **FC Barcelona**.
+* 🎵 Vibing to South Asian indie and pop (heavy rotation: Asim Azhar, Darshan Raval, Anuv Jain, and Talwiinder).
+* 📸 Exploring high-end cinematic photography (obsessed with the aesthetic of an 85mm f1.4 lens, shallow depth of field, and 10-bit color).
 
 ---
 
