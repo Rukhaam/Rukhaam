@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+at+Kashmir University;Building+Secure+Backend+Systems;Building+Code+Review+Engines;Crafting+UI+with+Framer+Motion;Writing+about+Tech+on+Hashnode" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+at+KashmirUniversity;Building+Secure+Backend+Systems;Building+Code+Review+Engines;Crafting+UI+with+Framer+Motion;Writing+about+Tech+on+Hashnode" alt="Typing SVG" />
   </a>
 </p>
 
