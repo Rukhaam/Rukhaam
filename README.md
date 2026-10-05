@@ -94,7 +94,7 @@ I am a second-year Computer Science engineering student with 1.5 years of experi
 ## 🎧 Beyond the Code
 
 When I'm not configuring Docker containers or validating large arrays with Zod, you can find me:
-* ⚽ Cheering on **FC Barcelona**.
+* ⚽ Cheering on **FC Barcelona🔵🔴**.
 * 🎵 Vibing to South Asian indie and pop (heavy rotation: Asim Azhar, Darshan Raval, Anuv Jain, and Talwiinder).
 * 📸 Exploring high-end cinematic photography (obsessed with the aesthetic of an 85mm f1.4 lens, shallow depth of field, and 10-bit color).
 
