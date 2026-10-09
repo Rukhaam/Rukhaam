@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukhaam Bin Mushtaq</h1>
-<h3 align="center">Full-Stack Engineer | PERN Stack & Backend Architecture</h3>
+<h3 align="center">Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
