@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a second-year Computer Science engineering student with 1.5 years of experience building full-stack applications. I focus on building robust backend architectures, automated tooling, and dynamic, highly polished user interfaces. 
+I am a Third-year Computer Science engineering student with 1.5 years of experience building full-stack applications. I focus on building robust backend architectures, automated tooling, and dynamic, highly polished user interfaces. 
 
 - 🎓 **Studying:** B.Tech in CSE at University of Kashmir
 - 💻 **Currently deep-diving into:** Architecting a custom code review engine, server-side optimization, and scaling backend services using Builder.
