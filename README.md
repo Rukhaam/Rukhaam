@@ -1,16 +1,17 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=200&section=header&text=Rukhaam%20Bin%20Mushtaq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Backend%20Architecture%20%26%20Developer%20Tooling&descAlignY=58&descSize=16" alt="Header Banner" />
+  <!-- Clean Native Hero Header (Zero Vercel Downtime) -->
+  <h1>Hi, I'm Rukhaam Bin Mushtaq 👋</h1>
+  <h3>Full-Stack Engineer &nbsp;|&nbsp; Backend Architecture &nbsp;|&nbsp; Developer Tooling</h3>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Rukhaam">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+at+University+of+Kashmir;Architecting+Secure+%26+Scalable+Backend+Systems;Building+Automated+Code+Review+Engines;Crafting+Fluid+Interfaces+with+Framer+Motion;Writing+Technical+Deep-Dives+on+Hashnode" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br /><br />
 
-  <!-- Social & Contact Badges -->
+  <!-- Social & Contact Badges + Cloudflare Profile Views -->
   <p align="center">
     <a href="https://linkedin.com/in/Rukhaam%20Mushtaq">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +22,9 @@
     <a href="mailto:rukhaammushtaq19@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Rukhaam&label=PROFILE+VIEWS&color=2F80ED&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Rukhaam">
+      <img src="https://hits.sh/github.com/Rukhaam.svg?style=for-the-badge&label=Profile%20Views&color=2F80ED&labelColor=1e293b" alt="Profile Views" />
+    </a>
   </p>
 
 </div>
@@ -152,7 +155,7 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
 <div align="center">
 
-  <!-- GitHub Trophies (Working Community Mirror) -->
+  <!-- GitHub Trophies -->
   <img width="100%" src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Rukhaam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
   <br /><br />
@@ -168,8 +171,8 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
   <br /><br />
 
-  <!-- Live Contribution Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukhaam&theme=tokyo-night&hide_border=true&area=true&custom_title=Rukhaam's%20Contribution%20Graph" alt="Contribution Graph" />
+  <!-- Live Contribution Heatmap Grid (Token-Free, High Uptime) -->
+  <img width="95%" src="https://ghchart.rshah.org/38BDF8/Rukhaam" alt="Rukhaam's GitHub Contribution Chart" />
 
 </div>
 
@@ -182,6 +185,8 @@ When I'm not configuring Docker containers or validating large arrays with Zod, 
 * 🎵 Vibing to South Asian indie and pop (heavy rotation: Darshan Raval, Anuv Jain, and Talwiinder).
 * 📸 Exploring high-end cinematic photography (obsessed with the aesthetic of an 85mm f/1.4 lens, shallow depth of field, and 10-bit color).
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer&text=Let's%20connect%20and%20build%20something%20awesome!&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
-</div>
+---
+
+<p align="center">
+  <b><i>Let's connect and build something awesome! 🚀</i></b>
+</p>
