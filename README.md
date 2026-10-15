@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Clean Native Hero Header (Zero Vercel Downtime) -->
+  <!-- Clean Native Hero Header -->
   <h1>Hi, I'm Rukhaam Bin Mushtaq 👋</h1>
   <h3>Full-Stack Engineer &nbsp;|&nbsp; Backend Architecture &nbsp;|&nbsp; Developer Tooling</h3>
 
@@ -151,14 +151,18 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
 ---
 
-## 📊 GitHub Analytics & Trophies
+## 📊 GitHub Analytics & Milestones
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img width="100%" src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=Rukhaam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <!-- Live GitHub Milestone Badges (Zero Downtime) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/Rukhaam?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=%F0%9F%8F%86%20Total%20Stars&color=F59E0B&labelColor=1e293b" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRukhaam&query=%24.public_repos&style=for-the-badge&logo=github&label=%F0%9F%93%A6%20Public%20Repos&color=8B5CF6&labelColor=1e293b" alt="Public Repos" />
+    <img src="https://img.shields.io/github/followers/Rukhaam?style=for-the-badge&logo=github&label=%F0%9F%91%A5%20Followers&color=38BDF8&labelColor=1e293b" alt="Followers" />
+  </p>
 
-  <br /><br />
+  <br />
 
   <!-- GitHub Stats & Streak Cards -->
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Rukhaam&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
@@ -171,7 +175,7 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
   <br /><br />
 
-  <!-- Live Contribution Heatmap Grid (Token-Free, High Uptime) -->
+  <!-- Live Contribution Heatmap Grid -->
   <img width="95%" src="https://ghchart.rshah.org/38BDF8/Rukhaam" alt="Rukhaam's GitHub Contribution Chart" />
 
 </div>
