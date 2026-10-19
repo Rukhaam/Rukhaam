@@ -151,7 +151,7 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
 ---
 
-## 📊 GitHub Analytics & Milestones
+## 📊 GitHub Analytics
 
 <div align="center">
 
