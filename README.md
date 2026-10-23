@@ -142,7 +142,7 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
       <p><code>Next.js</code> <code>Tailwind CSS</code> <code>Drizzle ORM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ Interactive UI Components</h3>
+      <h3> Interactive UI Components</h3>
       <p>Developed an aesthetic, slick sponsor marquee component and smooth physics-driven micro-interactions for web projects utilizing Framer Motion.</p>
       <p><code>React</code> <code>Framer Motion</code> <code>TypeScript</code></p>
     </td>
