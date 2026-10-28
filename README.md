@@ -186,7 +186,7 @@ ask_me_about: [PERN Stack, Next.js, Rate Limiting, Developer Tooling]
 
 When I'm not configuring Docker containers or validating large arrays with Zod, you can find me:
 * ⚽ Cheering on **FC Barcelona 🔵🔴**.
-* 🎵 Vibing to South Asian indie and pop (heavy rotation: Darshan Raval, Anuv Jain, and Talwiinder).
+* 🎵 Vibing to kashmiri Sufi music (Rashid Hafiz(String:GOAT))
 * 📸 Exploring high-end cinematic photography (obsessed with the aesthetic of an 85mm f/1.4 lens, shallow depth of field, and 10-bit color).
 
 ---
