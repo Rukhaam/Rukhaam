@@ -31,7 +31,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 I am a third-year Computer Science engineering student with 1.5+ years of experience building full-stack applications. I focus on architecting robust backend systems, automated developer tooling, and dynamic, highly polished user interfaces.
 
