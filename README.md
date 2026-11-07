@@ -141,7 +141,21 @@ The tools behind my work.
   <tr>
     <td width="50%" valign="top">
       <br />
-      <h3>Automated Code Review Engine</h3>
+      <h3><a href="https://apptracker.summitdigital.in">My Tracker App</a></h3>
+      <p>Track study sessions, coding practice, projects, and screen time in one workspace.</p>
+      <br />
+    </td>
+    <td width="50%" valign="top">
+      <br />
+      <h3><a href="https://formbuilder.summitdigital.in">Form Builder</a></h3>
+      <p>A web app for building forms.</p>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br />
+      <h3><a href="https://codeengine.summitdigital.in">Automated Code Review Engine</a></h3>
       <p>Building a review engine to streamline pull requests, enforce coding standards, and improve code quality.</p>
       <p><code>Node.js</code> <code>TypeScript</code> <code>AST</code> <code>GitHub Webhooks</code></p>
       <br />
@@ -157,7 +171,7 @@ The tools behind my work.
   <tr>
     <td width="50%" valign="top">
       <br />
-      <h3>Kinetic Store</h3>
+      <h3><a href="https://kineticstore.page">Kinetic Store</a></h3>
       <p>A football jersey storefront focused on fast page loads, search visibility, and a smooth shopping experience.</p>
       <p><code>Next.js</code> <code>Tailwind CSS</code> <code>Drizzle ORM</code></p>
       <br />
