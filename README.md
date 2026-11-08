@@ -162,25 +162,9 @@ The tools behind my work.
     </td>
     <td width="50%" valign="top">
       <br />
-      <h3>Builder Projects</h3>
-      <p>Building modular backend systems with a focus on performance, reliability, and efficient delivery.</p>
-      <p><code>Express.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Zod</code></p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br />
       <h3><a href="https://kineticstore.page">Kinetic Store</a></h3>
       <p>A football jersey storefront focused on fast page loads, search visibility, and a smooth shopping experience.</p>
       <p><code>Next.js</code> <code>Tailwind CSS</code> <code>Drizzle ORM</code></p>
-      <br />
-    </td>
-    <td width="50%" valign="top">
-      <br />
-      <h3>Interactive UI Components</h3>
-      <p>Reusable interfaces with smooth motion and purposeful interactions.</p>
-      <p><code>React</code> <code>Framer Motion</code> <code>TypeScript</code></p>
       <br />
     </td>
   </tr>
