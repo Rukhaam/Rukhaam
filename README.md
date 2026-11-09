@@ -40,7 +40,7 @@ I build web applications with a focus on **scalable backend systems**, **optimis
 
 **📚Currently learning Networking**
 
-B.Tech Computer Science student at the University of Kashmir. Currently working on automated code review and reliable backend workflows, and sharing what I learn through technical writing.
+B.Tech Computer Engineering student at the University of Kashmir. Currently working on automated code review and reliable backend workflows, and sharing what I learn through technical writing.
 
 <br />
 
