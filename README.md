@@ -218,5 +218,5 @@ FC Barcelona, Kashmiri Sufi music, and cinematic photography.
 <br />
 
 <p align="center">
-  <strong>Open to thoughtful collaborations.</strong>
+  <strong>Open to collaborations.</strong>
 </p>
